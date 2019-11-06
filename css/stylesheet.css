@@ -1,0 +1,19 @@
+.clg{
+    background-color: lightgrey;
+    border: solid 1px black;
+}
+
+.bg-jamia{background-color :#004A67;}
+
+.urdufont{
+    font-family: jameel noori nastaleeq; 
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 500px;
+  }
+
+.carousel-inner h1, p{
+font-family: jameel noori nastaleeq;
+}
